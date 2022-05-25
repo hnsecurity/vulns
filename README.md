@@ -1,6 +1,6 @@
-# vulnerability reports and exploits
+# vulnerability reports
 
-HN Security's public advisories and proof-of-concept exploits.
+HN Security's public vulnerability advisories.
 
 https://security.humanativaspa.it/
 
