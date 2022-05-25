@@ -1,4 +1,4 @@
-# security advisories
+# vulnerability disclosures
 
 HN Security's public security advisories.
 
