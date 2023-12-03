@@ -1,6 +1,6 @@
 # vulnerability reports
 
-HN Security's public security advisories.
+HN Security's advisories.
 
 https://security.humanativaspa.it/
 
