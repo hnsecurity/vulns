@@ -16,5 +16,8 @@ https://security.humanativaspa.it/
 ## RT-Thread
 * [**HNS-2024-05-rt-thread**](https://github.com/hnsecurity/vulns/blob/main/HNS-2024-05-rt-thread.txt). Multiple vulnerabilities in RT-Thread RTOS (CVE-2024-24334, CVE-2024-24335, CVE-2024-25388, CVE-2024-25389, CVE-2024-25390, CVE-2024-25391, CVE-2024-25392, CVE-2024-25393, CVE-2024-25394, CVE-2024-25395).
 
+## ThreadX
+* TBD
+
 ## Others
 * [**HNS-2023-04-tinydir**](https://github.com/hnsecurity/vulns/blob/main/HNS-2023-04-tinydir.txt). Buffer overflow vulnerabilities with long path names in TinyDir (CVE-2023-49287).
