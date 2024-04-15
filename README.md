@@ -20,7 +20,7 @@ https://security.humanativaspa.it/
 * **HNS-2024-06-threadx.txt**. TBA (CVE-2024-2212, CVE-2024-2214, CVE-2024-2452).
 
 ## RIOT
-* **HNS-2024-07-riot.txt**. TBA (CVE-2024-31225).
+* **HNS-2024-07-riot.txt**. TBA (CVE-2024-31225, CVE-2024-32017, CVE-2024-32018).
 
 ## Others
 * [**HNS-2023-04-tinydir**](https://github.com/hnsecurity/vulns/blob/main/HNS-2023-04-tinydir.txt). Buffer overflow vulnerabilities with long path names in TinyDir (CVE-2023-49287).
