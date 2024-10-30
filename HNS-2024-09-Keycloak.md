@@ -1,14 +1,15 @@
 # HN Security Advisory - https://security.humanativaspa.it/
 
 * Title: Multiple race conditions in Keycloak's anti-brute force mechanism
-* Products: Keycloak <= 22.0.11
-            Keycloak <= 24.0.6
-            Keycloak <= 25.0.2
+* Products:
+  * Keycloak <= 22.0.11  
+  * Keycloak <= 24.0.6  
+  * Keycloak <= 25.0.2  
 * Author: Ema Srdoc <ema.srdoc at hnsecurity.it> and Maurizio Agazzini <maurizio.agazzini at hnsecurity.it>
 * Date: 2024-10-30
-* CVE Names and Vendor CVSS Scores:
+* CVE Names and Vendor CVSS Scores:  
   CVE-2024-4629: CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N
-* Advisory URLs:
+* Advisory URLs:  
   https://github.com/hnsecurity/vulns/blob/main/HNS-2024-09-Keycloak.md
 
 # Description
@@ -38,12 +39,12 @@ All Keycloak versions up to and including version 22.0.11, 24.0.6, 25.0.2 are af
 
 # Disclosure timeline
 
-18/04/2024 - First communication with details.
-18/04/2024 - Response: we can't see the details.
-18/04/2024 - Send details again as an attachment.
-02/05/2024 - Request for a follow-up.
-09/05/2024 - Response: CVE-2024-4629 assigned, fix in backlog.
-24/05/2024 - Request for a roadmap of the fix.
-22/08/2024 - Request for a follow-up.
-26/08/2024 - Response: already fixed and published as a [public issue](https://github.com/keycloak/keycloak/issues/31726)
-03/09/2024 - [CVE-2024-4629](https://access.redhat.com/security/cve/CVE-2024-4629) is published.
+18/04/2024 - First communication with details.  
+18/04/2024 - Response: we can't see the details.  
+18/04/2024 - Send details again as an attachment.  
+02/05/2024 - Request for a follow-up.  
+09/05/2024 - Response: CVE-2024-4629 assigned, fix in backlog.  
+24/05/2024 - Request for a roadmap of the fix.  
+22/08/2024 - Request for a follow-up.  
+26/08/2024 - Response: already fixed and published as a [public issue](https://github.com/keycloak/keycloak/issues/31726)  
+03/09/2024 - [CVE-2024-4629](https://access.redhat.com/security/cve/CVE-2024-4629) is published.  
