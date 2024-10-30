@@ -22,5 +22,9 @@ https://security.humanativaspa.it/
 ## RIOT
 * [**HNS-2024-07-riot**](https://github.com/hnsecurity/vulns/blob/main/HNS-2024-07-riot.txt). Multiple vulnerabilities in RIOT OS (CVE-2024-31225, CVE-2024-32017, CVE-2024-32018).
 
+## Keycloak
+* [**HNS-2024-08-Keycloak**](https://github.com/hnsecurity/vulns/blob/main/HNS-2024-08-Keycloak.md). Multiple authentication and authorization vulnerabilities in Keycloak (CVE-2024-3656).
+* [**HNS-2024-09-Keycloak**](https://github.com/hnsecurity/vulns/blob/main/HNS-2024-09-Keycloak.md). Multiple race conditions in Keycloak's anti-brute force mechanism (CVE-2024-4629).
+
 ## Others
 * [**HNS-2023-04-tinydir**](https://github.com/hnsecurity/vulns/blob/main/HNS-2023-04-tinydir.txt). Buffer overflow vulnerabilities with long path names in TinyDir (CVE-2023-49287).
