@@ -4,9 +4,9 @@
 * Products: Keycloak <= 24.0.5
 * Author: Ema Srdoc <ema.srdoc at hnsecurity.it> and Maurizio Agazzini <maurizio.agazzini at hnsecurity.it>
 * Date: 2024-10-30
-* CVE Names and Vendor CVSS Scores:
+* CVE Names and Vendor CVSS Scores:  
   CVE-2024-3656: CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N  
-* Advisory URLs:
+* Advisory URLs:  
   https://github.com/hnsecurity/vulns/blob/main/HNS-2024-08-Keycloak.md
 
 # Description
@@ -57,13 +57,13 @@ All Keycloak versions up to and including version 24.0.5 are affected.
  
 # Disclosure timeline
 
-04/04/2024 - First communication sent with all details.
-09/04/2024 - Response with request of clarifications.
-09/04/2024 - More details sent.
-09/04/2024 - Second reply.
-09/04/2024 - [Proposed fix](https://github.com/keycloak/keycloak/pull/27629) for the first issue.
-10/04/2024 - Multiple emails about the first issue.
-02/05/2024 - Request for information about the second issue (which is more severe).
-09/05/2024 - Response with assigned CVE-2024-3656 and request to not release any details: `For the moment there is no estimated keycloak version to include the fix`
-27/05/2024 - Request for an update and  a timeline for the fix
-11/06/2024 - [Advisory](https://github.com/keycloak/keycloak/security/advisories/GHSA-2cww-fgmg-4jqc) published without any notification.
+04/04/2024 - First communication sent with all details.  
+09/04/2024 - Response with request of clarifications.  
+09/04/2024 - More details sent.  
+09/04/2024 - Second reply.  
+09/04/2024 - [Proposed fix](https://github.com/keycloak/keycloak/pull/27629) for the first issue.  
+10/04/2024 - Multiple emails about the first issue.  
+02/05/2024 - Request for information about the second issue (which is more severe).  
+09/05/2024 - Response with assigned CVE-2024-3656 and request to not release any details: `For the moment there is no estimated keycloak version to include the fix`  
+27/05/2024 - Request for an update and  a timeline for the fix  
+11/06/2024 - [Advisory](https://github.com/keycloak/keycloak/security/advisories/GHSA-2cww-fgmg-4jqc) published without any notification.  
