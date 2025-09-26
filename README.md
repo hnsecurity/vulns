@@ -2,7 +2,7 @@
 
 HN Security's advisories.
 
-https://security.humanativaspa.it/
+<https://hnsecurity.it/>
 
 ## Solaris
 * [**HNS-2022-01-dtprintinfo**](https://github.com/hnsecurity/vulns/blob/main/HNS-2022-01-dtprintinfo.txt). Multiple vulnerabilities in Solaris dtprintinfo and libXm/libXpm (CVE-2022-46285, CVE-2023-24039, CVE-2023-24040).
