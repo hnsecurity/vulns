@@ -1,4 +1,4 @@
-# HN Security Advisory - https://security.humanativaspa.it/
+# HN Security Advisory - https://hnsecurity.it/
 
 * Title: Multiple authentication and authorization vulnerabilities in Keycloak
 * Products: Keycloak <= 24.0.5
