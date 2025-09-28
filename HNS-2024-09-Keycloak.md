@@ -1,4 +1,4 @@
-# HN Security Advisory - https://security.humanativaspa.it/
+# HN Security Advisory - https://hnsecurity.it/
 
 * Title: Multiple race conditions in Keycloak's anti-brute force mechanism
 * Products:
